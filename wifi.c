@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>  // Necesitas instalar esta librería desde el Library Manager
 
-const char* ssid = "Wokwi-GUEST";
-const char* password = "";
+const char* ssid = "AP_asix";
+const char* password = "AP_asix2023";
 
 void setup() {
   Serial.begin(115200);
